@@ -4,7 +4,8 @@
 
 #### Полезные ссылки: <-Дополнить->:red_circle:
 
-#### Ссылка на отчет по лабе: [Отчет](https://docs.google.com/document/d/1zq8IfM6-61QMrtEhPQVKm6dH8oQlquoDt1iZtbuZGFo/edit?usp=sharing)
+#### Ссылка на отчет по лабе: [Отчет](https://docs.google.com/document/d/1zq8IfM6-61QMrtEhPQVKm6dH8oQlquoDt1iZtbuZGFo/edit?usp=sharing):red_circle:
+
 
 # Задачи
 :one:Выполнить установку и подключение библиотеки в программе на языке Python. Для этого
