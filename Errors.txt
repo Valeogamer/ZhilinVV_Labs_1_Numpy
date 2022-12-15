@@ -1,0 +1,10 @@
+# print("*" * 15, "Задание 2.c - 100000", "*" * 15) - ERROR - 
+"""
+    matrix_4 = np.random.random((100000,100000))
+  File "mtrand.pyx", line 434, in numpy.random.mtrand.RandomState.random
+  File "mtrand.pyx", line 425, in numpy.random.mtrand.RandomState.random_sample
+  File "_common.pyx", line 307, in numpy.random._common.double_fill
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 74.5 GiB for an array with shape (100000, 100000) and data type float64
+"""
+# matrix_4 = np.random.random((100000,100000))
+# print("Случайная двумерная матрица размером 100000 на 100000: \n", matrix_4, "\n")
