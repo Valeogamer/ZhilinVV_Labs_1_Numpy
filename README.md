@@ -5,7 +5,7 @@
 #### Полезные ссылки: [Клкточная игра "Жизнь"](http://kvant.mccme.ru/1974/09/igra_zhizn.htm),  [NumPy](https://numpy.org/doc/),  [Основы NumPy(видео)](https://www.youtube.com/watch?v=Dh0cdMlcrbU&ab_channel=PyLounge-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BD%D0%B0Python%D0%B8%D0%B2%D1%81%D1%91%D0%BEIT),
 [Логика игры](https://www.geeksforgeeks.org/conways-game-life-python-implementation/)
 
-#### Ссылка на отчет по лабе: [Отчет](https://docs.google.com/document/d/1zq8IfM6-61QMrtEhPQVKm6dH8oQlquoDt1iZtbuZGFo/edit?usp=sharing):red_circle:
+#### Ссылка на отчет по лабе::red_circle:
 
 
 # Задачи
